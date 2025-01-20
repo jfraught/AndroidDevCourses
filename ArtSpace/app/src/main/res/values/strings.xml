@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Art Space</string>
+    <string name="setup_one">Setup one</string>
+    <string name="setup_two">Setup two</string>
+    <string name="setup_three">Setup three</string>
+    <string name="setup_four">Setup four</string>
+    <string name="setup_five">Setup five</string>
+    <string name="setup_six">Setup six</string>
+    <string name="setup_seven">Setup seven</string>
+    <string name="setup_eight">Setup eight</string>
+    <string name="setup_nine">Setup nine</string>
+    <string name="setup_ten">Setup ten</string>
+    <string name="setup_eleven">Setup eleven</string>
+    <string name="setup_twelve">Setup twelve</string>
+    <string name="setup_thirteen">Setup thirteen</string>
+    <string name="setup_fourteen">Setup fourteen</string>
+    <string name="one_date">2017</string>
+    <string name="two_date">2018</string>
+    <string name="three_date">2019</string>
+    <string name="four_date">2020</string>
+    <string name="five_date">2020</string>
+    <string name="six_date">2021</string>
+    <string name="seven_date">2021</string>
+    <string name="eight_date">2022</string>
+    <string name="nine_date">2023</string>
+    <string name="ten_date">2023</string>
+    <string name="eleven_date">2024</string>
+    <string name="twelve_date">2024</string>
+    <string name="thirteen_date">2025</string>
+    <string name="fourteen_date">2025</string>
+</resources>
